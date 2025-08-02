@@ -62,7 +62,7 @@ const BLOG = {
   // 欢迎语打字效果,Hexo,Matery主题支持, 英文逗号隔开多个欢迎语。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    '手機壞了？我們，最快修好。, 現場速修、不留機,Hi，Apple授權級維修中心🎉',
+    '手機壞了？我們，最快修好。, 現場速修、不留機,主機板維修，我們真的會',
 
   // uuid重定向至 slug
   UUID_REDIRECT: process.env.UUID_REDIRECT || false
