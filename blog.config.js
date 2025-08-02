@@ -10,7 +10,7 @@ const CONFIG = {
     PROXIO_HERO_TITLE_1: '手機壞了？我們幫你搞定！', // 英雄区文字
     PROXIO_HERO_TITLE_2: '現場透明報價｜當日完修｜不留機', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-    PROXIO_HERO_BUTTON_1_TEXT: ''LINE 線上預約', // 英雄区按钮
+    PROXIO_HERO_BUTTON_1_TEXT: 'LINE 線上預約', // 英雄区按钮
     PROXIO_HERO_BUTTON_1_URL:
         'https://lin.ee/OAlo5ku', // 英雄区按钮
     PROXIO_HERO_BUTTON_2_TEXT: '追蹤我們的IG', // 英雄区按钮
