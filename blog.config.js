@@ -119,7 +119,7 @@ const CONFIG = {
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '感谢提供这么好的项目哈哈 之前一直不知道怎么部署(别的项目好难好复杂)这个相对非常简单 新手非常友好哦',
+                '感谢提供这么好的項目哈哈 之前一直不知道怎么部署(别的项目好难好复杂)这个相对非常简单 新手非常友好哦',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
             PROXIO_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
